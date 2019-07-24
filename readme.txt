@@ -47,10 +47,6 @@ This plugin is meant to be used by merchants in Nigeria.
 To get the plugin click [here](https://github.com/makinde2013/wordpress_interswitch_webpay_woocommerce_vtu_plugin)
 
 
-= Contribute =
-To contribute to this plugin feel free to fork it on GitHub [Interswitch Webpay WooCommerce Payment Gateway on GitHub](https://github.com/tubiz/interswitch-webpay-woocommerce-payment-gateway)
-
-
 == Installation ==
 
 = Automatic Installation =
@@ -126,5 +122,5 @@ __*You can select the radio button next to the Interswitch Webpay from the list 
 8. Successful Transaction
 
 == Credits ===
-Interswitch
+[Interswitch](https://github.com/tubiz/interswitch-webpay-woocommerce-payment-gateway)
 MobileNig
